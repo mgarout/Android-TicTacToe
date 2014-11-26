@@ -1,4 +1,4 @@
 Android-TicTacToe
 =================
 
-Tic Tac Toe android project
+Tic Tac Toe android project using java
